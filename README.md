@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Hi.... just hi... yeah, I've got nothing else to say really
 <p>I always loved techy computery computer stuff, but I've never really started active learning in-depth things until I've became an IT student.<br>
   Thus, I'm still a noob and have far a ways to go before I actually make something.<br>
-  This account would be just me **starring** some cool projects for the forseeable future. :)
+  This account would be just me <b>starring</b> some cool projects for the forseeable future. :)
 </p>
